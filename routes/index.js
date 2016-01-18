@@ -5,6 +5,7 @@ var config = require('../config');
 
 router.get('/', function(req, res) {
   res.render('index', { community: config.community,
+                        tagline: config.tagline,
                         tokenRequired: !!config.inviteToken });
 });
 
