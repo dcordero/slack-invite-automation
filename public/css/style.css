@@ -163,3 +163,8 @@ a:hover {
 img {
 	margin-bottom: 20px;
 }
+
+
+*::-webkit-input-placeholder {
+    color: #ffffff;
+}
