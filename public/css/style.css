@@ -7,7 +7,7 @@ body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input
 html,body{
 margin:0;
 padding:0;
-font-family: 'Lato', sans-serif;
+font-family: 'Helvetica', sans-serif;
 background: #fff url(../images/bg.jpg) center top no-repeat;
 background-size: cover;
 height: 100%;
@@ -42,8 +42,8 @@ float: left;
 
 
 h1{
-font-family: 'Open Sans', sans-serif;
-color: #fff;
+font-family: 'Helvetica', sans-serif;
+color: #8d8d8d;
 text-align: center;
 font-size: 50px;
 font-weight: 300;
@@ -64,8 +64,8 @@ color: #8d8d8d;
 }
 
 h2 strong{
-	font-weight: 700;
-	font-style: italic;
+font-weight: 700;
+font-style: italic;
 }
 
 
@@ -78,12 +78,12 @@ margin: 0 auto;
 h3{
 font-size: 28px;
 font-weight: 600;
-color: #ffffff;
+color: #8d8d8d;
 }
 
 .information p{
 font-size: 16px;
-color: #ffffff;
+color: #8d8d8d;
 display: block;
 }
 
@@ -101,7 +101,7 @@ border: none;
 font-style: italic;
 font-family: 'Helvetica', sans-serif;
 font-size: 16px;
-color: #ffffff;
+color: #8d8d8d;
 float: left;
 padding: 15px;
 margin-bottom: 15px;
@@ -130,7 +130,7 @@ margin-top: 12px;
 background: #ffffff;
 border: none;
 float: left;
-font-family: 'Lato', sans-serif;
+font-family: 'Helvetica', sans-serif;
 font-size: 14px;
 font-weight: bold;
 cursor: pointer;
